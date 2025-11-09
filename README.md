@@ -23,7 +23,7 @@ The project includes:
 ### Why the Maximum Period Was Not Achieved
 The polynomial \( p(x) \) is **reducible** over GF(2), as proven by:
 \[
-p(1) = 1 + 1 + 1 + 1 = 0 \quad \text{(in GF(2))}
+p(1) = 1 + 1 + 1 + 1 = 0 (in GF(2))
 \]
 This means \( (x + 1) \) is a factor, making the polynomial non-primitive. Only primitive polynomials achieve the maximum period of \( 2^n - 1 \).
 
